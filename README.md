@@ -1,4 +1,4 @@
-# automatic-solar-tracker
+# Automatic Solar Tracker
 
 Design Lab Project during the sixth semester at IIT Guwahati under Prof. Shaik Rafi Ahamed.
 
